@@ -1,4 +1,4 @@
-# 1. Linear Regression on Study Hours and Scores
+# 1. Linear Regression Model on Study Hours and Scores
 
 This project includes a Python script for performing linear regression on a dataset of study hours and exam scores.
 
@@ -18,7 +18,7 @@ Install the necessary dependancies:
 pip install -r requirements.txt
 ```
 
-# 2. Iris Classification Project
+# 2. Iris Classification Model
 
 This project demonstrates the classification of Iris flower species using a Random Forest classifier. The dataset is obtained from the UCI Machine Learning Repository.
 
