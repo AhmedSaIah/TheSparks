@@ -1,4 +1,4 @@
-# Linear Regression on Study Hours and Scores
+# 1. Linear Regression on Study Hours and Scores
 
 This project includes a Python script for performing linear regression on a dataset of study hours and exam scores.
 
@@ -12,7 +12,42 @@ This project includes a Python script for performing linear regression on a data
 
 ## Installation
 
-Install the necessary packages using:
+Install the necessary dependancies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+# 2. Iris Classification Project
+
+This project demonstrates the classification of Iris flower species using a Random Forest classifier. The dataset is obtained from the UCI Machine Learning Repository.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+
+## Installation
+
+### Clone the Repository
+
+```bash
+    git clone https://github.com/AhmedSaIah/TheSparks.git
+    cd TheSparks
+```
+## Set Up Virtual Environment
+
+```bash
+    python -m venv venv
+    source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
+## Installation
+
+Install the necessary dependancies:
+
+```bash
+    pip install -r requirements.txt
+```
+
+[Download Graphviz](#https://graphviz.org/#download)
