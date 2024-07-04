@@ -25,8 +25,6 @@ This project demonstrates the classification of Iris flower species using a Rand
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
 
 ## Installation
 
@@ -36,18 +34,19 @@ This project demonstrates the classification of Iris flower species using a Rand
     git clone https://github.com/AhmedSaIah/TheSparks.git
     cd TheSparks
 ```
-## Set Up Virtual Environment
+### Set Up Virtual Environment
 
 ```bash
     python -m venv venv
     source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
-## Installation
 
-Install the necessary dependancies:
+### Install the necessary dependancies:
+
+[Download Graphviz]()
 
 ```bash
     pip install -r requirements.txt
 ```
 
-[Download Graphviz](#https://graphviz.org/#download)
+
